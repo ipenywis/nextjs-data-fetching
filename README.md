@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 13 New Data Fetching APIs and fetch for SSR/SSG/ISR
+
+This is an explanation on how the new Next.js 13 does Data fetching with static-side rendering and server-side rendering with revalidation.
+
+### Watch video: https://youtu.be/g0Jc5D6tiCo**
 
 ## Getting Started
 
