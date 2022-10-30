@@ -1,0 +1,372 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Intelligent Plastic Tuna",
+      "price": 307,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://api.lorem.space/image/watch?w=640&h=480&r=3679"
+      },
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=6767",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=8871",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=6587"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Awesome Soft Chicken",
+      "price": 275,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=6133"
+      },
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=4000",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1456",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1050"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Practical Rubber Towels",
+      "price": 951,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=6133"
+      },
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=7262",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=128",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=4249"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Unbranded Steel Bike",
+      "price": 401,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://api.lorem.space/image?w=640&h=480&r=1807"
+      },
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=152",
+        "https://api.lorem.space/image?w=640&h=480&r=4630",
+        "https://api.lorem.space/image?w=640&h=480&r=7014"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Rustic Fresh Mouse",
+      "price": 119,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://api.lorem.space/image/watch?w=640&h=480&r=3679"
+      },
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=1507",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=2378",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=7424"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Fantastic Concrete Chips",
+      "price": 424,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://api.lorem.space/image?w=640&h=480&r=1807"
+      },
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=3864",
+        "https://api.lorem.space/image?w=640&h=480&r=6845",
+        "https://api.lorem.space/image?w=640&h=480&r=6216"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Fantastic Wooden Hat",
+      "price": 920,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://api.lorem.space/image?w=640&h=480&r=1807"
+      },
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=8009",
+        "https://api.lorem.space/image?w=640&h=480&r=8161",
+        "https://api.lorem.space/image?w=640&h=480&r=6739"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Small Plastic Soap",
+      "price": 731,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://api.lorem.space/image?w=640&h=480&r=1807"
+      },
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=5517",
+        "https://api.lorem.space/image?w=640&h=480&r=9078",
+        "https://api.lorem.space/image?w=640&h=480&r=4101"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Incredible Soft Ball",
+      "price": 124,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=9923"
+      },
+      "images": [
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=5698",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=3969",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=3839"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Licensed Plastic Cheese",
+      "price": 681,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://api.lorem.space/image?w=640&h=480&r=1807"
+      },
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=4770",
+        "https://api.lorem.space/image?w=640&h=480&r=4519",
+        "https://api.lorem.space/image?w=640&h=480&r=1261"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Handcrafted Soft Soap",
+      "price": 20,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=6716"
+      },
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=9087",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=1099",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=3516"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Practical Steel Keyboard",
+      "price": 136,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=6716"
+      },
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=3035",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=4065",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=452"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Unbranded Steel Shirt",
+      "price": 330,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://api.lorem.space/image?w=640&h=480&r=1807"
+      },
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=6124",
+        "https://api.lorem.space/image?w=640&h=480&r=8686",
+        "https://api.lorem.space/image?w=640&h=480&r=3780"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Sleek Frozen Pizza",
+      "price": 236,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://api.lorem.space/image/watch?w=640&h=480&r=3679"
+      },
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=7383",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=6480",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=7180"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Awesome Fresh Ball",
+      "price": 766,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://api.lorem.space/image/watch?w=640&h=480&r=3679"
+      },
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=6125",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=8037",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=8511"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Rustic Steel Salad",
+      "price": 15,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=9923"
+      },
+      "images": [
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=1702",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=4141",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=9780"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Licensed Soft Pizza",
+      "price": 527,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://api.lorem.space/image/watch?w=640&h=480&r=3679"
+      },
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=1141",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=9801",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=2226"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Ergonomic Granite Bacon",
+      "price": 985,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=9923"
+      },
+      "images": [
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=7656",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=2249",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=7792"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Refined Fresh Pants",
+      "price": 874,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=6716"
+      },
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=7252",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=7085",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=1219"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Gorgeous Granite Mouse",
+      "price": 199,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "category": {
+        "id": 4,
+        "name": "Shoes",
+        "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=6716"
+      },
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=9563",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=3700",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=4339"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Small Fresh Towels",
+      "price": 864,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=9923"
+      },
+      "images": [
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=8081",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=8913",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=8337"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Incredible Wooden Mouse",
+      "price": 564,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=6133"
+      },
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=3561",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=196",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=286"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Generic Wooden Towels",
+      "price": 448,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": {
+        "id": 3,
+        "name": "Furniture",
+        "image": "https://api.lorem.space/image/furniture?w=640&h=480&r=6133"
+      },
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1910",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=9589",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=4641"
+      ]
+    }
+  ]
+}
